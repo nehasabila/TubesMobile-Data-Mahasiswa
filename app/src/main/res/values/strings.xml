@@ -1,0 +1,21 @@
+<resources>
+ <string name="app_name">Biodata</string>
+   //neha
+    <string name="nehaNim">211402090</string>
+    <string name="nehaSurel">nehasabila62@gmail.com</string>
+    <string name="nehaFakultas">Fasilkom-TI</string>
+    <string name="nehaProgrambelajar">Teknologi Informasi</string>
+    <string name="nehaSemesterterdaftar">1</string>
+    <string name="nehaStatus">Aktif</string>
+
+    //jauza
+    <string name="jauzaNim">211402024</string>
+    <string name="jauzaSurel">jauzaanbari12@gmail.com</string>
+    <string name="jauzaFakultas">Fasilkom-TI</string>
+    <string name="jauzaProgrambelajar">Teknologi Informasi</string>
+    <string name="jauzaSemesterterdaftar">1</string>
+    <string name="jauzaStatus">Aktif</string>
+
+
+
+</resources>
